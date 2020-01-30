@@ -11,19 +11,19 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>/uncover.ipa</string>
+<string>https://github.com/pwn20wndstuff/Undecimus/releases/download/v3.8.0%25b1/Undecimus-v3.8.0.b1.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>com.inj.unc0ver</string>
+<string>com.maj.unc0ver</string>
 <key>bundle-version</key>
 <string>1.0</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>Unc0ver Jailbreak digitalmajestic</string>
+<string>Unc0ver Jailbreak majestic</string>
 </dict>
 </dict>
 </array>
